@@ -3,6 +3,6 @@
 Why i am here ?
 my vision, my skills of Front-end job !
 
-Thanks for watching and comments.
+Thanks for watching !
 
 PR
