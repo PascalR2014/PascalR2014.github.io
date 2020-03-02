@@ -1,11 +1,30 @@
-# Junior Front-end web My resume 
+# A Junior DevOps Cloud and others skills 
 
-* Who i am ?
-* Why i am here ?
-* my skills and my vision as Front-end job !
+## Please watch my resume
 
-http://pascalr2014.github.io/pascal-r.github.io/
+Hello guys, my name is Pascal Richet!!
 
-Thanks for watching !
+1. Open, index.html (In progress)
+
+I explain:
+
+* Who am I?
+
+	I'm actually student in Udacity ...
+
+* Why I am here ?
+
+	It's a place to be!!
+
+* Watch my skills !
+
+	You welcome to see my resume, here!!
+
+
+
+[Github](https://github.com/PascalR2014/MyResume.io)
+[Linkedin](https://www.linkedin.com/in/pascal-richet-it-student)
+
+Thanks for reading !
 
 Contributor: Pascal R.
