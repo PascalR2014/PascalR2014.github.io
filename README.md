@@ -4,7 +4,7 @@
 
 I explain:
 
-* Who am I?
+* What I'm doing ?
 
 	I'm actually student in Codecademy and studying full-stack
 
