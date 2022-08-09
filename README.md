@@ -1,8 +1,6 @@
 # A Junior full-stack and others skills 
 
-## Please watch my resume
-
-Hello guys, my name is Pascal Richet
+## Hello guys, my name is Pascal Richet
 
 I explain:
 
