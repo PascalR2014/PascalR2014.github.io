@@ -10,7 +10,7 @@ I explain:
 
 * Who am I?
 
-	I'm actually student in Codecademy
+	I'm actually student in Codecademy and studying full-stack
 
 * Why I am here ?
 
@@ -22,6 +22,7 @@ I explain:
 
 
 [Linkedin](https://www.linkedin.com/in/pascal-richet-it-student)
+[Github page](https://github.com/PascalR2014/PascalR2014.github.io/blob/master/index.html)
 
 Thanks for reading !
 
