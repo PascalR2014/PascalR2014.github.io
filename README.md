@@ -1,4 +1,4 @@
-# A Junior DevOps Cloud and others skills 
+# A Junior full-stack and others skills 
 
 ## Please watch my resume
 
@@ -10,7 +10,7 @@ I explain:
 
 * Who am I?
 
-	I'm actually student in Udacity ...
+	I'm actually student in Codecademy
 
 * Why I am here ?
 
