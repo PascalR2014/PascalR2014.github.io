@@ -2,7 +2,7 @@
 
 ## Please watch my resume
 
-Hello guys, my name is Pascal Richet!!
+Hello guys, my name is Pascal Richet
 
 1. Open, index.html (In progress)
 
@@ -14,15 +14,13 @@ I explain:
 
 * Why I am here ?
 
-	It's a place to be!!
+	It's a place to be !!
 
 * Watch my skills !
 
-	You welcome to see my resume, here!!
+	You welcome to see my resume, here !
 
 
-
-[Github](https://github.com/PascalR2014/MyResume.io)
 [Linkedin](https://www.linkedin.com/in/pascal-richet-it-student)
 
 Thanks for reading !
